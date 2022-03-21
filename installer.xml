@@ -90,7 +90,7 @@
 
 	<rebootAfterEachRemovedProduct var="RebootAfterEachRemovedProduct">0</rebootAfterEachRemovedProduct>
 
-	<epagCustomField strVar="EpagCustomField"><![CDATA[{"productType":0,"ComputersFolder":"62382d6683084348fa2c4733"}]]></epagCustomField>
+	<epagCustomField strVar="EpagCustomField"><![CDATA[{"productType":0,"ComputersFolder":"62382d5db71cd32a06412b7b"}]]></epagCustomField>
 
 	<statusLink strVar="StatusLink">https://cloudgz-ecs.gravityzone.bitdefender.com/tasks/state</statusLink>
 
