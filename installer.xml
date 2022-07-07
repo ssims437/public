@@ -11,7 +11,7 @@
 		<feature name="MailServers" action="0"/>
 		<feature name="DataLossPrevention" action="0"/>
 		<feature name="ApplicationControl" action="0"/>
-		<feature name="PowerUser" action="0"/>
+		<feature name="PowerUser" action="1"/>
 		<feature name="EventCorrelator" action="0"/>
 		<feature name="VolumeEncryption" action="0"/>
 		<feature name="PatchManagement" action="0"/>
@@ -23,7 +23,7 @@
 	</features>
 
 	<serverAddress strVar="EpagServer">https://cloudgz-ecs.gravityzone.bitdefender.com/hydra</serverAddress>
-	<customerId strVar="EpagCustId">62382cf3bd4efd51a6410034</customerId>
+	<customerId strVar="EpagCustId">62c6a1c78a6287254c0cafcd</customerId>
 	<connTime strVar="EpagConnTime">1800</connTime>
 	<userId strVar="EpagUserId">5d6f7637860c5fbeb23badcb</userId>
 
@@ -38,7 +38,7 @@
 	<forceResumeAfterReboot var="ForceResumeAfterReboot">0</forceResumeAfterReboot>
 
 	<disableScanBeforeInstall var="DisableScanBeforeInstall">1</disableScanBeforeInstall>
-	<encryptedPass>xA9i3bIe4ITozdBWO2uAV6zCGNYO5geABH9yJBjboHI=</encryptedPass>
+	<encryptedPass></encryptedPass>
 
 	<remoteScanSettings>
 		<servers>
@@ -90,7 +90,7 @@
 
 	<rebootAfterEachRemovedProduct var="RebootAfterEachRemovedProduct">0</rebootAfterEachRemovedProduct>
 
-	<epagCustomField strVar="EpagCustomField"><![CDATA[{"productType":0,"ComputersFolder":"62382d5db71cd32a06412b7b"}]]></epagCustomField>
+	<epagCustomField strVar="EpagCustomField"><![CDATA[{"productType":0,"ComputersFolder":"62c6a1fb47d5b61d5409d29f"}]]></epagCustomField>
 
 	<statusLink strVar="StatusLink">https://cloudgz-ecs.gravityzone.bitdefender.com/tasks/state</statusLink>
 
@@ -100,7 +100,7 @@
 	<submitSuspicious var="SubmitSuspicious">1</submitSuspicious>
 
 	<epagConfig>
-		<authToken strVar="EpagToken">b614S1rL/LBFmhHBfbAEog==</authToken>
+		<authToken strVar="EpagToken">rwDdAdY58yoUm8oLae6zxg==</authToken>
 	</epagConfig>
 
 </config>
